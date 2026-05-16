@@ -1,1 +1,3 @@
-# smart-leads-dashboard
+# Final Smart Leads Dashboard
+
+Complete MERN + TypeScript assignment structure.
